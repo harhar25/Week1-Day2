@@ -1,12 +1,9 @@
 #The files is on the "MASTER" Branch
 
-# 🐍 Flask Login & Profile Management System
-
-A simple, clean user login, registration, and profile management system built with **Flask**, **Flask-Login**, **Flask-SQLAlchemy**, and **SQLite**. Users can securely register, log in, edit their profile details, and upload a profile image.
-
+# 🐍 Login & Profile Management System
 ---
 
-## 📸 Features
+
 
 - User registration with unique username and email
 - Secure password hashing (using Werkzeug)
@@ -22,7 +19,7 @@ A simple, clean user login, registration, and profile management system built wi
 
 ---
 
-## 📦 Technologies Used
+Technologies Used
 
 - Python 3
 - Flask
@@ -33,13 +30,13 @@ A simple, clean user login, registration, and profile management system built wi
 
 ---
 
-## 📝 Setup Instructions
+📝 Setup Instructions
 
-### 1️⃣ Clone the repository:
+Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/harhar25/Week1-Day2.git
+cd Week1-Day2
 
 **Create and activate a virtual environment:**
 python -m venv venv
@@ -51,7 +48,7 @@ pip install -r requirements.txt
 
 **Run the application:**
 python app.py
-Access it at: http://127.0.0.1:5000
+Access it at: http://127.0.0.1:8000
 
 📁 Project Structure
 /static/uploads/           # Profile images upload folder
